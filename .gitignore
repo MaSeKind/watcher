@@ -3,6 +3,7 @@
 local.properties
 .idea/workspace.xml
 .idea/libraries
+.idea/
 
 # built application files
 *.apk
@@ -71,12 +72,14 @@ wiki/
 
 # Other projects
 peachpayments-android/
+wordpress-android/
 
 # Tmp properties file for build number
 tmp.properties
 
 # Weirdass crash reports from Android Studio/Gradle
 *.hprof
+captures/
 
 # Log Files
 *.log
